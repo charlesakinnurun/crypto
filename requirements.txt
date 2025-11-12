@@ -6,3 +6,5 @@ matplotlib
 seaborn
 jupyter
 warnings
+time
+mpl_toolkits
