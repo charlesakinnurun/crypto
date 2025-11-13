@@ -8,3 +8,4 @@ jupyter
 warnings
 time
 mpl_toolkits
+scipy
